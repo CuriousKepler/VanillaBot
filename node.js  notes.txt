@@ -1,0 +1,13 @@
+package.json and app.js should be in the same directory
+
+to use the app.js interface go into cmd, and type
+" node app.js "
+
+to install nodemon type
+" npm install -g nodemon "
+( install in same directory as the package.json and app.js by cs and ls)
+
+then type
+"npm install --save-dev nodemon  "
+
+

@@ -1,0 +1,6 @@
+name: rishabh8
+
+api key:  4237d177cd952779835f84c080f16668
+
+guide: https://weatherstack.com/quickstart
+	https://weatherstack.com/documentation
